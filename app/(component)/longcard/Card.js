@@ -9,9 +9,9 @@ export default function Card() {
                 <div class="my-[7%] mx-[50px] w-[50%]">
                     <Image src={commaimg} alt="" />
                     <h1 className='text-3xl pt-3'>As a freelancer, I chase clients in a wide variety of fields.</h1>
-                    <p className='pt-4' >Having access to the insiders at chatwithprofessionals.com gave me the tools to "ask clients the right
+                    <p className='pt-4' >{`Having access to the insiders at chatwithprofessionals.com gave me the tools to "ask clients the right
                         questions, understand their target markets, and win new business" in fields that I’m passionate about!
-                        Game changer for small businesses like mine.</p>
+                        Game changer for small businesses like mine.`}</p>
                 </div>
                 <div class="w-[50%]">
                     <Image src={girlimg} alt="" className='w-[500px]'/>
